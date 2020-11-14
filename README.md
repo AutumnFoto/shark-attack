@@ -1,6 +1,6 @@
 # Shark Attack!
 Oh no your entire class has fallen into a pool infested with sharks and they are HUNGRY.
-![image](Animated%20GIF-original.mp4)
+![](2020-11-13%2019_57_55-Shark%20Attack.png)
 
 ## Details
 
